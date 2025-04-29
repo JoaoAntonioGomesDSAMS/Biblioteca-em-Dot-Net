@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\ProdutoFornecedor.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\Biblioteca-em-Dot-Net\\ProdutoFornecedor\\ProdutoFornecedor\\ProdutoFornecedor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\ProdutoFornecedor.csproj": {
+    "C:\\Users\\Aluno\\Documents\\Biblioteca-em-Dot-Net\\ProdutoFornecedor\\ProdutoFornecedor\\ProdutoFornecedor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\ProdutoFornecedor.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Biblioteca-em-Dot-Net\\ProdutoFornecedor\\ProdutoFornecedor\\ProdutoFornecedor.csproj",
         "projectName": "ProdutoFornecedor",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\ProdutoFornecedor.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\Biblioteca-em-Dot-Net\\ProdutoFornecedor\\ProdutoFornecedor\\ProdutoFornecedor.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\Biblioteca-em-Dot-Net\\ProdutoFornecedor\\ProdutoFornecedor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
