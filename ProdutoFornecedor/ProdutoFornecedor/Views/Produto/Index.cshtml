@@ -1,0 +1,75 @@
+﻿@model IEnumerable<ProdutoFornecedor.Models.Produto>
+
+@{
+
+    ViewData["Title"] = "Produtos";
+
+}
+
+
+
+<div class="container mt-4">
+
+    <h1>Lista de Produtos</h1>
+
+
+
+    <p>
+
+        <a asp-action="Create" class="btn btn-success">Novo Produto</a>
+
+    </p>
+
+
+
+    <table class="table table-striped table-hover">
+
+        <thead class="table-dark">
+
+            <tr>
+
+                <th>Nome</th>
+
+                <th>Preço</th>
+
+                <th>Fornecedor</th>
+
+                <th>Ações</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model)
+
+            {
+
+                <tr>
+
+                    <td>@item.Nome</td>
+
+                    <td>R$ @item.Preco.ToString("F2")</td>
+
+                    <td>@item.Fornecedor?.Nome</td>
+
+                    <td>
+
+                        <a asp-action="Edit" asp-route-id="@item.ProdutoId" class="btn btn-sm btn-warning">Editar</a>
+
+                        <a asp-action="Details" asp-route-id="@item.ProdutoId" class="btn btn-sm btn-info">Detalhes</a>
+
+                        <a asp-action="Delete" asp-route-id="@item.ProdutoId" class="btn btn-sm btn-danger">Excluir</a>
+
+                    </td>
+
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+
+</div> 

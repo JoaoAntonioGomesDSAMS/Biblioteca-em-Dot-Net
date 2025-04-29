@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\fornecedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\fornecedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\fornecedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\fornecedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\fornecedor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\fornecedor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\fornecedor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\fornecedor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|c:\\users\\aluno\\desktop\\produtofornecedor\\views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617B605C-2F48-4DCB-B294-3B72BD52A8F4}|ProdutoFornecedor.csproj|solutionrelative:views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:08:42.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:08:32.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:08:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "Models\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:08:08.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:55:39.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:48:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fornecedor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T16:01:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Details.cshtml",
+              "RelativeToolTip": "Views\\Fornecedor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T16:00:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Fornecedor\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:59:49.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Create.cshtml",
+              "RelativeToolTip": "Views\\Fornecedor\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:59:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:53:23.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:44:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Fornecedor\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T16:00:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:49:22.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Details.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:51:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:50:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ProdutoFornecedor\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:48:38.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
